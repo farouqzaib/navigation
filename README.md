@@ -35,5 +35,5 @@ NOTE: This code requires Python 3.6
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
 2. Place the file in the root directory and unzip (or decompress) the file. 
-3. Open dqn.ipynb and replace `<path to Banana environment just unzipped/uncompressed>` (in 2. Fetch the environment) with the path to the file from Step 2 above.
+3. Open Navigation.ipynb and replace `<path to Banana environment just unzipped/uncompressed>` (in 2. Fetch the environment) with the path to the file from Step 2 above.
 
