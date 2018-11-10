@@ -21,11 +21,12 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
 ### Files
-Navigation.ipynb - code for agent
-README.md - this file
-Report.pdf - a report on the algorithm used to train the agent and its performance
-requirements.txt - dependencies required by agent's code
-checkpoint.pth - model weights for an agent that successfully solved the Banana task
+
+- Navigation.ipynb - code for agent
+- README.md - this file
+- Report.pdf - a report on the algorithm used to train the agent and its performance
+- requirements.txt - dependencies required by agent's code
+- checkpoint.pth - model weights for an agent that successfully solved the Banana task
 
 ### Getting Started
 
