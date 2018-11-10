@@ -45,3 +45,6 @@ NOTE: This code requires Python 3.6
 2. Place the file in the root directory and unzip (or decompress) the file. 
 3. Open Navigation.ipynb and replace `<path to Banana environment just unzipped/uncompressed>` (in 2. Fetch the environment) with the path to the file from Step 2 above.
 
+### Training the Agent
+
+The code is contained in an interactive notebook, Navigation.ipynb. So all you need to do is run each code cell, one after the other.
